@@ -6,20 +6,16 @@ My Summer Car Multiplayer in a new look. Play with friends or create your own se
 - [Control](#Control)
 - [Server](#Server)
 
-## Server
-- [MSC-MP Server](https://www.gatsbyjs.com/)
-
 ## Install
 1. Install the latest [release](https://github.com/fismov/MSC-MP/releases).
 2. Unzip into the game folder.
 3. Start game with MSCMP.exe
 
 ## Control
+1. Open chat: T, /.
+2. Send: Enter.
+3. Close chat: Esc or F1.
+4. Player list: Hold Tab.
 
-Open chat: T, /, or ..
-Send: Enter.
-Close chat: Esc or F1.
-Player list: Hold Tab.
-
-### Start the server
+### Server
 To run the server, check out [MSC-MP Server](https://github.com/fismov/MSC-MP-Server)
