@@ -4,9 +4,9 @@ My Summer Car Multiplayer in a new look. Play with friends or create your own se
 ## Content
 - [Install](#Install)
 - [Control](#Control)
-- [Start the server](#Start the server)
+- [Server](#Server)
 
-## Start the server
+## Server
 - [MSC-MP Server](https://www.gatsbyjs.com/)
 
 ## Install
